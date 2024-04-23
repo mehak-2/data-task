@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "prompt": "Create a JSON object with an 'objects' array containing one object. The 'id' of the object should be 'text-1' with 'text' set to a true or false question (around 10 words) for slides. Include the answer in the 'answer' field.",
+            "text": "Is science a systematic enterprise that builds and organizes knowledge?",
+            "answer": { "objects": [ { "id": "text-1", "text": "Is science a systematic enterprise that builds and organizes knowledge?" } ], "answer": true }
+        },
+        {
+            "prompt": "Create a JSON object with an 'objects' array containing one object. The 'id' of the object should be 'text-1' with 'text' set to a true or false question (around 10 words) for slides. Include the answer in the 'answer' field.",
+            "text": "Is GitHub a platform for collaboration and code sharing among developers worldwide?",
+            "answer": { "objects": [ { "id": "text-1", "text": "Is GitHub a platform for collaboration and code sharing among developers worldwide?" } ], "answer": true }
+        },
+        {
+            "prompt": "Create a JSON object with an 'objects' array containing one object. The 'id' of the object should be 'text-1' with 'text' set to a true or false question (around 10 words) for slides. Include the answer in the 'answer' field.",
+            "text": "Is machine learning focused on developing algorithms to analyze data and make decisions with minimal human intervention?",
+            "answer": { "objects": [ { "id": "text-1", "text": "Is machine learning focused on developing algorithms to analyze data and make decisions with minimal human intervention?" } ], "answer": true }
+        },
+        {
+            "prompt": "Create a JSON object with an 'objects' array containing one object. The 'id' of the object should be 'text-1' with 'text' set to a true or false question (around 10 words) for slides. Include the answer in the 'answer' field.",
+            "text": "Is the CPU responsible for executing instructions and performing calculations in a computer?",
+            "answer": { "objects": [ { "id": "text-1", "text": "Is the CPU responsible for executing instructions and performing calculations in a computer?" } ], "answer": true }
+        },
+        {
+            "prompt": "Create a JSON object with an 'objects' array containing one object. The 'id' of the object should be 'text-1' with 'text' set to a true or false question (around 10 words) for slides. Include the answer in the 'answer' field.",
+            "text": "Is Jupiter the largest planet in our solar system?",
+            "answer": { "objects": [ { "id": "text-1", "text": "Is Jupiter the largest planet in our solar system?" } ], "answer": true }
+        },
+        {
+            "prompt": "Create a JSON object with an 'objects' array containing one object. The 'id' of the object should be 'text-1' with 'text' set to a true or false question (around 10 words) for slides. Include the answer in the 'answer' field.",
+            "text": "Are planets celestial bodies that orbit around stars?",
+            "answer": { "objects": [ { "id": "text-1", "text": "Are planets celestial bodies that orbit around stars?" } ], "answer": true }
+        },
+        {
+            "prompt": "Create a JSON object with an 'objects' array containing one object. The 'id' of the object should be 'text-1' with 'text' set to a true or false question (around 10 words) for slides. Include the answer in the 'answer' field.",
+            "text": "Are quiz games interactive activities where participants answer questions to test their knowledge?",
+            "answer": { "objects": [ { "id": "text-1", "text": "Are quiz games interactive activities where participants answer questions to test their knowledge?" } ], "answer": true }
+        },
+        {
+            "prompt": "Create a JSON object with an 'objects' array containing one object. The 'id' of the object should be 'text-1' with 'text' set to a true or false question (around 10 words) for slides. Include the answer in the 'answer' field.",
+            "text": "Is fast food typically high in calories, fat, sugar, and salt?",
+            "answer": { "objects": [ { "id": "text-1", "text": "Is fast food typically high in calories, fat, sugar, and salt?" } ], "answer": true }
+        },
+        {
+            "prompt": "Create a JSON object with an 'objects' array containing one object. The 'id' of the object should be 'text-1' with 'text' set to a true or false question (around 10 words) for slides. Include the answer in the 'answer' field.",
+            "text": "Is data science a multidisciplinary field that uses scientific methods to extract knowledge from data?",
+            "answer": { "objects": [ { "id": "text-1", "text": "Is data science a multidisciplinary field that uses scientific methods to extract knowledge from data?" } ], "answer": true }
+        }
+    ]
+}
